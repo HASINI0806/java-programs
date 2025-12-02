@@ -8,6 +8,7 @@ class Employee {
     }
 }
 
+
 class Manager extends Employee {
     String department;
 
